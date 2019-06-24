@@ -1,4 +1,4 @@
-# 2019EssayContest: Additional Information and Materials
+# 2019EssayContest: Additional Materials
 
 Application Form: [pdf](https://github.com/svcaf/2019EssayContest/raw/master/Application%20Form.pdf)
 
